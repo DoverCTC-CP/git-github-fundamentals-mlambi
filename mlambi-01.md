@@ -7,5 +7,7 @@ to commit it, etc.
 ### Markdown
 \~\~ wrapping text with these will will produce ~~strikethrough~~<br>
 \*\*  **BOLD** <br>
-\* \* or \_ \_ will make text _ _italicized_ _ for you.  This * *works* * too. <br>
+\* \* or \_ \_ will make text _italicized_ for you.  This *works* too. <br>
 
+\*\*\* will make things ***bold and italic***
+what if you need a super-script? <sup>2</sup>
