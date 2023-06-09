@@ -3,3 +3,7 @@
 README and get some idea of what it is using.
 This is good practice for submitting a new file.  I will have to do some other stuff
 to commit it, etc.
+
+### Markdown
+\~\~ wrapping text with these will will produce ~~strikethrough~~
+\*\*  **BOLD**
