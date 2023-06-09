@@ -11,3 +11,5 @@ to commit it, etc.
 
 \*\*\* will make things ***bold and italic***
 what if you need a super-script? <sup>2</sup>
+
+You can find more about [Markdown at GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
