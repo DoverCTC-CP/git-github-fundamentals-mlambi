@@ -5,5 +5,7 @@ This is good practice for submitting a new file.  I will have to do some other s
 to commit it, etc.
 
 ### Markdown
-\~\~ wrapping text with these will will produce ~~strikethrough~~
-\*\*  **BOLD**
+\~\~ wrapping text with these will will produce ~~strikethrough~~<br>
+\*\*  **BOLD** <br>
+\* \* or \_ \_ will make text _ _italicized_ _ for you.  This * *works* * too. <br>
+
